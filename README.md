@@ -64,6 +64,7 @@ Execute the database migrations:
 You can run the price analysis manually or set it up as an automated process.
 
 7.1. Manually Fetch Prices
+
 To manually analyze the prices for a specific trading pair, use the following command:
 
 ```bash
@@ -72,6 +73,7 @@ To manually analyze the prices for a specific trading pair, use the following co
 This command will display the lowest and highest prices for the specified trading pair across all exchanges.
 
 7.2. List Trading Pairs with Profit Calculation
+
 To list trading pairs along with their potential profit, run:
 
 ```bash
